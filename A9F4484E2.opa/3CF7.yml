@@ -1,0 +1,30 @@
+segment_sources:
+  IA6539A9E:
+    type: origin_type
+    relation: translation
+    base: CB4F
+    lang: en
+  I9516E550:
+    type: origin_type
+    relation: translation
+    base: 23AB
+    lang: bo
+segment_pairs:
+  4c4774f2815b48cfa31e97a0ce269acf:
+    IA6539A9E: fb491c0c9e7b40d68154b22e61a21b88
+    I9516E550: 8fc982e69e684d7b9891c78cdc5ca1cc
+  8b9d02fa580344feb627bde9721a627b:
+    IA6539A9E: 7ecf0f65b1ee48fb9fb701bde7a50ae7
+    I9516E550: 1147aeccb6214a9c852427cbb7cf2b78
+  be11bd54cc4641ee9d9164b9c4f85fae:
+    IA6539A9E: 31690b79797644f5a39a24fc05b590e1
+    I9516E550: 42a4ddb065c944c48190e060e23eec04
+  ce2f0244a48d410c9c54aeb190a5d605:
+    IA6539A9E: a2d57641690c4e21a12925eb560d6b50
+    I9516E550: cc442dbe8e0b45989238f24037482950
+  802c9d9b0b8244fdb2d7ae577d4fbf36:
+    IA6539A9E: af77a38bc6724b4db1e52cfa4c28588f
+    I9516E550: 701e25f1c8894534a629b56316298f0a
+  7727136c4701471e83c718b91c5a1a21:
+    IA6539A9E: e2f77b4d564544fa9c11543592e85d0b
+    I9516E550: 477afbec624b42a5be24a946681ac326
